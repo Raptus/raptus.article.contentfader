@@ -5,12 +5,13 @@ Provides a component which continually fades in and out the contained articles.
 
 The following features for raptus.article are provided by this package:
 
-    * Components:
-        * Article fader (continually fades in and out the contained articles)
-        * Article fader teaser (continually fades in and out the contained articles and is displayed above the columns)
+Components
+----------
+    * Content fader (continually fades in and out the contained articles)
+    * Content fader teaser (continually fades in and out the contained articles and is displayed above the columns)
 
-Dependencies:
-
+Dependencies
+------------
     * raptus.inlinelightbox
     * raptus.article.nesting
     * raptus.article.teaser
@@ -59,7 +60,5 @@ in the article in which this component is active.
 Copyright and credits
 =====================
 
-raptus.article is copyrighted by raptus_, and licensed under the GPL. 
+raptus.article is copyrighted by `Raptus AG <http://raptus.com>`_ and licensed under the GPL. 
 See LICENSE.txt for details.
-
-.. _raptus: http://raptus.com/ 
